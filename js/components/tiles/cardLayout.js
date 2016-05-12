@@ -5,7 +5,7 @@ export default class CardLayout extends Component{
 		let imgClass={
 			width:'100%',
 			height:'430px',
-			background:'url('../../../static/images/emma3.jpg') no-repeat',
+			background:'url(../../../static/images/emma3.jpg) no-repeat',
 			backgroundSize:'cover'
 		}
 		return(

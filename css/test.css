@@ -1,0 +1,7 @@
+.test{
+    float: left;
+    background: url('../static/images/44496.jpg') no-repeat;
+    width: 15px;
+    height: 15px;
+    background-size: cover;
+}
